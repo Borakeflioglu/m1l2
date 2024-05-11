@@ -6,4 +6,3 @@ sifre = ""
 for i in range(sifre_uzunlugu):
     sifre = sifre + random.choice(karakterler)
 print(sifre)
-print(sfqaa)
